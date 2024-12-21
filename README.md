@@ -1,5 +1,7 @@
 # Karel
 
+![Image of the game included in the files](preview.png)
+
 Karel is a game. It has a simple command input that accepts commands showed in the legend. Based on these commands, Karel moves, rotates, and changes the field. In this version there is a console that shows incorrectly executed commands.
 
 ## Running the game
